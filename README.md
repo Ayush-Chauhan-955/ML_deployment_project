@@ -1,8 +1,5 @@
 ## ML deployment project
 
-Okay, here's a more engaging and to-the-point README.md:
-
----
 
 # 🚀 Deploy Your ML Model: From Training to Docker
 
