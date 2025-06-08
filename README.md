@@ -47,4 +47,4 @@ This project is under the [MIT License](https://opensource.org/licenses/MIT).
 
 ## 👨‍💻 Author
 
-**Devanshu Chauhan** ([https://github.com/Devanshu-Chauhan-955](https://github.com/Devanshu-Chauhan-955))
+**Ayush Chauhan** ([https://github.com/Ayush-Chauhan-955](https://github.com/Ayush-Chauhan-955))
